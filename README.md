@@ -16,4 +16,4 @@ _Features:_
 * done task
 * remove task
 
-[***App deployed on next link***](https://ddv-todo-graphql.herokuapp.com/)
+[***App deployed on next link***](https://ddv-todo-graphql.herokuapp.com/?target=_blank)
