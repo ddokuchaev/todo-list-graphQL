@@ -1,7 +1,7 @@
 # TO-DO List on graphQL
 
 ## This is test app "TO-DO list"
----
+
 It works on ***node.js*** + one-page ***vue.js***, native ***Javascript*** + ***MYSQL*** + ***graphQL***.
 
 _I`m use in this project:_
