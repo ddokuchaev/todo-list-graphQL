@@ -17,8 +17,8 @@ app.use(express.json());
 app.use(
   graphqlHTTP({
     schema: schema,
-    rootValue: resolver,
-    graphiql: true,
+    rootValue: resolver
+    //   graphiql: true, //отключение консоли graphql
   })
 );
 
